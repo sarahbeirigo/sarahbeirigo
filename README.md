@@ -5,6 +5,7 @@
 ## Eu sou a Sarah! Estudande de Ciências Da Computação e apaixonada pela tecnologia, atualmente focada na área de desenvolvimento Front-End e IA!
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahbeirigo&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahbeirigo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
