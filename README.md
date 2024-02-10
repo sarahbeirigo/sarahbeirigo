@@ -27,5 +27,5 @@
   
 </div>
 
-![snake gif](https://github.com/sarahbeirigo/sarahbeirigo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sarahbeirigo/sarahbeirigo/blob/output/github/workflows/github-contribution-grid-snake.gif)
 
