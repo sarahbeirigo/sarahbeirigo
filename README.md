@@ -8,7 +8,7 @@
   <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=sarahbeirigo&show_icons=true&theme=midnight-purple&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahbeirigo&layout=compact" />
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahbeirigo&layout=compact" />
 </a>
 
 <div style="display: inline_block"><br>
