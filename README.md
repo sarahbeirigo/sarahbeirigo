@@ -5,10 +5,10 @@
 ## Eu sou a Sarah! Estudande de Ciências Da Computação e apaixonada pela tecnologia, atualmente focada na área de desenvolvimento Front-End e IA!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahbeirigo&show_icons=true&theme=midnight-purple&count_private=true" />
+  <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=sarahbeirigo&show_icons=true&theme=midnight-purple&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahbeirigo&layout=compact" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahbeirigo&layout=compact" />
 </a>
 
 <div style="display: inline_block"><br>
