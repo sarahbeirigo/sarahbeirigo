@@ -1,9 +1,8 @@
 ### Olá! 👋
 
-<!--
-**sarahbeirigo/sarahbeirigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**sarahbeirigo/sarahbeirigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## Eu sou a Sarah! Estudande de Ciências Da Computação e apaixonada pela tecnologia, atualmente focada na área de desenvolvimento Front-End e IA!-->
+## Eu sou a Sarah! Estudande de Ciências Da Computação e apaixonada pela tecnologia, atualmente focada na área de desenvolvimento Front-End e IA!
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahbeirigo&show_icons=true&theme=dracula&count_private=true)
 
