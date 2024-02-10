@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋
 
 <!--
 **sarahbeirigo/sarahbeirigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Eu sou a Sarah! Estudande do 5° período de Ciências Da Computação no Centro Universitário Barão de Mauá. Sou apixonada pela tecnologia e atualmente foco meus estudos na área de desenvolvimento Front-End e IA!
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
