@@ -3,7 +3,7 @@
 <!--
 **sarahbeirigo/sarahbeirigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Eu sou a Sarah! Estudande de Ciências Da Computação e apaixonada pela tecnologia, atualmente focada na área de desenvolvimento Front-End e IA!
+## Eu sou a Sarah! Estudande de Ciências Da Computação e apaixonada pela tecnologia, atualmente focada na área de desenvolvimento Front-End e IA!-->
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
