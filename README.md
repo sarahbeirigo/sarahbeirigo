@@ -1,9 +1,9 @@
-### Olá! 👋
+### Olá! 👋🏼 
 
 <!--**sarahbeirigo/sarahbeirigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## Oi,eu sou a Sarah! 👩🏼‍💻
-## Sou Estudande de Ciências Da Computação e apaixonada pela tecnologia, atualmente focada na área de desenvolvimento Front-End e sempre em busca da minha evolução pessoal e profissional! 🚀
+## Eu sou a Sarah! 👩🏼‍💻
+## Sou uma estudande de Ciências Da Computação apaixonada pela tecnologia, atualmente focada na área de desenvolvimentoFront-End e em busca da minha evolução pessoal e profissional! 🚀
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=sarahbeirigo&show_icons=true&theme=midnight-purple&count_private=true" />
